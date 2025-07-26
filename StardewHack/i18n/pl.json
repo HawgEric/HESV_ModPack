@@ -1,11 +1,1 @@
-{
-    //Translate by DzikiSzogun (Discord @dzikiszogun)
-    "errors": "StardewHack {{version}} wykrył następujące błędy:",
-    "footer": "Sprawdź swoją konsolę lub log błędów, aby uzyskać dalsze instrukcje.",
-    "fatal":  "Stardew Valley nie może się uruchomić, dopóki te błędy nie zostaną naprawione.",
-    "outdated-harmony": "SMAPI korzysta z nieaktualnej wersji Harmony.",
-    "initialization-error": "Nie udało się zainicjować moda",
-    "failed-patch": "Nie udało się zastosować niektórych/wszystkich poprawek.",
-    "outdated-version": "StardewHack nie obsługuje tej wersji.",
-    "corrupted": "Pliki instalacyjne moda zostały uszkodzone.",
-}
+C:/Users/ericp/AppData/Roaming/Vortex/stardewvalley/mods/Stardew Hack-3213-7-4-1730901861/StardewHack/i18n/pl.json

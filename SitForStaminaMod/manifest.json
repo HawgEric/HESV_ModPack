@@ -1,10 +1,1 @@
-{
-    "Name": "Sit For Stamina",
-    "Author": "Entoarox",
-    "Version": "1.0.1",
-    "Description": "Passively regen stamina while sitting.",
-    "UniqueID": "Entoarox.SitForStamina",
-    "MinimumApiVersion": "3.8",
-    "EntryDll": "SitForStamina.dll",
-    "UpdateKeys": [ "nexus:7334" ]
-}
+C:/Users/ericp/AppData/Roaming/Vortex/stardewvalley/mods/Sit for Stamina 1.0.1-7334-1-0-1-1609021464/SitForStaminaMod/manifest.json

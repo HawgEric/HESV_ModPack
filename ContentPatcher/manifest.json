@@ -1,10 +1,1 @@
-{
-    "Name": "Content Patcher",
-    "Author": "Pathoschild",
-    "Version": "2.7.4",
-    "MinimumApiVersion": "4.1.10",
-    "Description": "Loads content packs which edit game data, images, and maps without changing the game files.",
-    "UniqueID": "Pathoschild.ContentPatcher",
-    "EntryDll": "ContentPatcher.dll",
-    "UpdateKeys": [ "Nexus:1915" ]
-}
+C:/Users/ericp/AppData/Roaming/Vortex/stardewvalley/mods/Content Patcher 2.7.4-1915-2-7-4-1752960194/ContentPatcher/manifest.json

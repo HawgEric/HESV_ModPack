@@ -1,6 +1,1 @@
-{
-    ResetModifiersCommand: "Clears buffs, then resets and reapplies the modifiers applied by boots & rings.",
-    DestroyRingChestsCommand: "Removes any remaining ring chests used for storing player's rings. Any items contained therein will be dropped at your feet.",
-    OpenForgeCommand: "Открывает меню кузницы.",
-    RingsName: "Кольца", RingsTooltip: "Устанавливает, сколько слотов будет выделено под кольца.", 
-}
+C:/Users/ericp/AppData/Roaming/Vortex/stardewvalley/mods/Wear More Rings-3214-7-9-1748460448/WearMoreRings/i18n/ru.json

@@ -1,10 +1,1 @@
-{
-    "Name": "Automate",
-    "Author": "Pathoschild",
-    "Version": "2.4.1",
-    "MinimumApiVersion": "4.1.10",
-    "Description": "Lets you automate crafting machines, fruit trees, and more by connecting them to chests.",
-    "UniqueID": "Pathoschild.Automate",
-    "EntryDll": "Automate.dll",
-    "UpdateKeys": [ "Nexus:1063" ]
-}
+C:/Users/ericp/AppData/Roaming/Vortex/stardewvalley/mods/Automate 2.4.1-1063-2-4-1-1752959957/Automate/manifest.json

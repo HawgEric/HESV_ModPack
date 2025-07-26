@@ -1,11 +1,1 @@
-{
-    "Name": "Lookup Anything",
-    "Author": "Pathoschild",
-    "Version": "1.52.0",
-    "MinimumApiVersion": "4.3.1",
-    "MinimumGameVersion": "1.6.15",
-    "Description": "View metadata about anything by pressing a button.",
-    "UniqueID": "Pathoschild.LookupAnything",
-    "EntryDll": "LookupAnything.dll",
-    "UpdateKeys": [ "Nexus:541" ]
-}
+C:/Users/ericp/AppData/Roaming/Vortex/stardewvalley/mods/Lookup Anything 1.52.0-541-1-52-0-1752960426/LookupAnything/manifest.json

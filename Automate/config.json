@@ -1,17 +1,1 @@
-{
-  "Enabled": true,
-  "AutomationInterval": 60,
-  "Controls": {
-    "ToggleOverlay": "U"
-  },
-  "ConnectorNames": [],
-  "JunimoHutBehaviorForGems": "AutoDetect",
-  "JunimoHutBehaviorForFertilizer": "AutoDetect",
-  "JunimoHutBehaviorForSeeds": "AutoDetect",
-  "CollectTreeMoss": true,
-  "WarnForMissingBridgeMod": true,
-  "ChestsEnabledByDefault": true,
-  "ChestOverrides": {},
-  "MachineOverrides": {},
-  "MinMinutesForFairyDust": 20
-}
+C:/Users/ericp/AppData/Roaming/Vortex/stardewvalley/mods/Automate 2.4.1-1063-2-4-1-1752959957/Automate/config.json
